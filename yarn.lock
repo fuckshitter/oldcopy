@@ -2389,6 +2389,18 @@
     "react-transition-group" "^4.4.1"
     "styled-system" "^5.1.5"
 
+"@pancakeswap/uikit@^0.50.3":
+  "integrity" "sha512-d+AIOsZKiDdhOo43qjckccDHM+GSgAjqeD3zrd3tP2s1/myh/UeWvSbOkEvd2CoUFyJR1KHFUcRzLmtl6Y0Qww=="
+  "resolved" "https://registry.npmjs.org/@pancakeswap/uikit/-/uikit-0.50.3.tgz"
+  "version" "0.50.3"
+  dependencies:
+    "@popperjs/core" "^2.9.2"
+    "@types/lodash" "^4.14.168"
+    "@types/styled-system" "^5.1.10"
+    "lodash" "^4.17.20"
+    "react-popper" "^2.2.5"
+    "styled-system" "^5.1.5"
+
 "@pmmmwh/react-refresh-webpack-plugin@^0.4.3", "@pmmmwh/react-refresh-webpack-plugin@0.4.3":
   "integrity" "sha512-br5Qwvh8D2OQqSXpd1g/xqXKnK0r+Jz6qVKBbWmpUcrbGOxUrf39V5oZ1876084CGn18uMdR5uvPqBv9UqtBjQ=="
   "resolved" "https://registry.npmjs.org/@pmmmwh/react-refresh-webpack-plugin/-/react-refresh-webpack-plugin-0.4.3.tgz"
@@ -14493,7 +14505,7 @@
     "tiny-invariant" "^1.0.2"
     "tiny-warning" "^1.0.0"
 
-"react-scripts@^4.0.1":
+"react-scripts@^4.0.3":
   "integrity" "sha512-S5eO4vjUzUisvkIPB7jVsKtuH2HhWcASREYWHAQ1FP5HyCv3xgn+wpILAEWkmy+A+tTNbSZClhxjT3qz6g4L1A=="
   "resolved" "https://registry.npmjs.org/react-scripts/-/react-scripts-4.0.3.tgz"
   "version" "4.0.3"
